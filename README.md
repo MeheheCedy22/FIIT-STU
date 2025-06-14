@@ -63,7 +63,7 @@ PSI - Princípy softvérového inžinierstva
 
 ### 5. semester
 
-BP1_INFO - Bakalársky projekt I [--->](https://github.com/MeheheCedy22/FIIT-STU?tab=readme-ov-file#bakalarska-praca)
+BP1_INFO - Bakalársky projekt I [--->](https://github.com/MeheheCedy22/FIIT-STU?tab=readme-ov-file#bakal%C3%A1rska-pr%C3%A1ca)
 
 [IAU - Inteligentná analýza údajov](https://github.com/MeheheCedy22/IAU)
 
@@ -77,7 +77,7 @@ MIKROP - Mikropočítače
 
 ### 6. semester
 
-BP2_INFO - Bakalárska práca [--->](https://github.com/MeheheCedy22/FIIT-STU?tab=readme-ov-file#bakalarska-praca)
+BP2_INFO - Bakalárska práca [--->](https://github.com/MeheheCedy22/FIIT-STU?tab=readme-ov-file#bakal%C3%A1rska-pr%C3%A1ca)
 
 DM - Digitálny marketing
 
