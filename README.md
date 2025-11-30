@@ -61,3 +61,13 @@
 - [BP - Bakalárska práca](https://github.com/MeheheCedy22/BP)
 
 ## Inžinierske štúdium - Informačná bezpečnosť
+
+### 1. ročník
+#### 1. semester
+
+- [BIT - Bezpečnosť informačných technológií](https://github.com/MeheheCedy22/BIT)
+<!-- - MIB - Manažment informačnej bezpečnosti -->
+<!-- - PENTEST - Penetračné testovanie -->
+<!-- - TP1 - Tímový projekt I -->
+<!-- - VAKB - Vybrané aspekty kybernetickej bezpečnosti -->
+<!-- - VIB - Výskum v informačnej bezpečnosti -->
